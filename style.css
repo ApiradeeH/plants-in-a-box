@@ -76,6 +76,8 @@ a {
 
 .review {
   background-color: #ced4d1;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
 
 .card:hover {
